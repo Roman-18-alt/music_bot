@@ -32,14 +32,16 @@
 
 ## 📱 Демо
 
-### 1. Главное меню
-![screenshot1.png](screenshot1.png)
+1. Добавление трека в бд
+<img width="1920" height="1080" alt="2026-02-13_17-46-50" src="https://github.com/user-attachments/assets/627c8552-64a6-4a42-a857-0acc709797d1" />
 
-### 2. Аудио + кнопки
-![screenshot2.png](screenshot2.png)
 
-### 3. Удаление (FSM)
-![screenshot3.png](screenshot3.png)
+2. Функционал
+<img width="1920" height="1080" alt="2026-02-13_17-47-51" src="https://github.com/user-attachments/assets/cef1c15e-d9d1-4beb-a858-0ea8f4490c1f" />
+
+
+3. Удаление (FSM)
+<img width="1920" height="1080" alt="2026-02-13_17-48-10" src="https://github.com/user-attachments/assets/cfb1b1bd-05af-4422-8cab-301596fc9930" />
 
 ## 🚀 Быстрый старт (5 минут)
 
