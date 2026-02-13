@@ -33,14 +33,17 @@
 ## 📱 Демо
 
 1. Добавление трека в бд
+<img width="1389" height="541" alt="2026-02-13_17-46-50" src="https://github.com/user-attachments/assets/b1246d6a-a047-427c-a788-0eec930dec84" />
 
 
 
 2. Функционал
 
+<img width="972" height="279" alt="2026-02-13_17-47-51" src="https://github.com/user-attachments/assets/15bba0d7-62e5-4aa3-b161-9bf9175ecc3f" />
 
 
 3. Удаление (FSM)
+<img width="1105" height="304" alt="2026-02-13_17-48-10" src="https://github.com/user-attachments/assets/690b000b-3fd4-429e-b63f-f4f0174481f4" />
 
 
 ## 🚀 Быстрый старт (5 минут)
