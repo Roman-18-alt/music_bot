@@ -189,7 +189,7 @@ async def stop(message: Message, state: FSMContext):
  
     
 async def main():
-    TOKEN = "8545928505:AAEhUOd65QjR3a7lN-Uti45-2qQB5MpIyX8"
+    TOKEN = "YOUR TOKEN"
     bot = Bot(TOKEN)
     try:
         await dp.start_polling(bot)
@@ -197,4 +197,5 @@ async def main():
         print("ERROR")
         
 if __name__ == "__main__":
+
     asyncio.run(main())
